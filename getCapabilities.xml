@@ -129,6 +129,11 @@
 				<Layers>GH:pop_area_merge</Layers>
 				<Styles></Styles>
 			</TileSet>
+			<CustomLayer>
+				<Name>GH:pontoscontagem</Name>
+				<Title>pontoscontagem</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
@@ -137,7 +142,7 @@
 				<Title>pop_area_merge</Title>
 				<Abstract>GH:pop_area_merge ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/joaovictorpac/Cartografia_Teste/releases/download/Map_Download/pop_area_merge.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/joaovictorpac/Cartografia_Teste/releases/download/Map_Download/pop_area_merge.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-44.889320551" miny="-23.368931962" maxx="-40.95794091600004" maxy="-20.763205460999963"></LatLonBoundingBox>
